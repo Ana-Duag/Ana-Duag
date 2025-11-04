@@ -33,6 +33,7 @@ RStudio · Excel avanzado · GitHub · Visual Studio Code
 | [Análisis de películas](https://github.com/Ana-Duag/proyecto-peliculas-tableau) | Análisis y visualización de datos sobre taquilla y géneros cinematográficos. | Tableau, Python |
 | [Proyecto IA – Power BI](https://github.com/Ana-Duag/proyecto-IA-powerbi) | Creación de un dashboard interactivo con enfoque en inteligencia artificial y análisis predictivo. | Power BI, Python |
 | [Proyecto musical – Consultas SQL](https://github.com/Ana-Duag/proyecto-musical-consultas-sql) | Análisis de una base de datos musical para la obtención de métricas clave. | SQL, Python |
+| [Proyecto EDA – visualizaciones-python](https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python) | Proyecto en fase de desarrollo | Python |
 
 ---
 
