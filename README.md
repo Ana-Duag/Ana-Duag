@@ -55,7 +55,9 @@ Algunas de mis visualizaciones están disponibles públicamente en Tableau Publi
 ## Enlaces y contacto
 
 Madrid, España  
+
 Correo: apduenasagudo@gmail.com
+
 [Repositorios de GitHub](https://github.com/Ana-Duag?tab=repositories)
 
 ---
