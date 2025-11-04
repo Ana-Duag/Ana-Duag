@@ -70,8 +70,8 @@ Correo: apduenasagudo@gmail.com
 
 ### English Summary
 
-Civil Engineer with extensive Economic-Fiscal training and a strong analytical mindset.  
-Currently developing as a **Data Analyst, Data Scientist, and Data Engineer**, skilled in **Python, R, SQL, Tableau, Power BI, and Java**.  
+Civil Engineer with extensive economic and fiscal training and a strong analytical mindset.
+Currently developing as a Data Analyst, Data Scientist, and Data Engineer, skilled in Python, R, SQL, Tableau, Power BI, and Java.
 
-Passionate about processing, analyzing, and visualizing data to support data-driven decision-making.  
+Passionate about processing, analyzing, and visualizing data to support data-driven decision-making.
 Based in Madrid, Spain.
