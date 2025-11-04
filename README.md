@@ -48,7 +48,7 @@ RStudio · Excel avanzado · GitHub · Visual Studio Code
 ## Visualizaciones en Tableau
 
 Algunas de mis visualizaciones están disponibles públicamente en Tableau Public:  
-[Tableau Public - Ana Pilar Dueñas Agudo]
+
 
 ---
 
@@ -56,7 +56,6 @@ Algunas de mis visualizaciones están disponibles públicamente en Tableau Publi
 
 Madrid, España  
 Correo: apduenasagudo@gmail.com
-[LinkedIn]
 [Repositorios de GitHub](https://github.com/Ana-Duag?tab=repositories)
 
 ---
