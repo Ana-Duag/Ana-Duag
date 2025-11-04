@@ -34,6 +34,7 @@ RStudio · Excel avanzado · GitHub · Visual Studio Code
 | [Proyecto IA – Power BI](https://github.com/Ana-Duag/proyecto-IA-powerbi) | Creación de un dashboard interactivo con enfoque en inteligencia artificial y análisis predictivo. | Power BI, Python |
 | [Proyecto musical – Consultas SQL](https://github.com/Ana-Duag/proyecto-musical-consultas-sql) | Análisis de una base de datos musical para la obtención de métricas clave. | SQL, Python |
 | [Proyecto EDA – visualizaciones-python](https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python) | Proyecto en fase de desarrollo | Python |
+| [Proyecto presas –2025](https://github.com/Ana-Duag/proyecto-presas-2025) | Proyecto en fase de desarrollo | Python, SQL, Power BI|
 
 ---
 
