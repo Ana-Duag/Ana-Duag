@@ -1,4 +1,4 @@
-# Hola, soy Ana Dueñas
+## Hola, soy Ana Dueñas
 
 Ingeniera de Caminos, Canales y Puertos con extensa formación en el ámbito Económico-Fiscal, adquirida durante varios años de preparación para el cuerpo de Inspección de Hacienda del Estado.  
 
@@ -22,6 +22,7 @@ Tableau · Power BI
 
 **Otras herramientas:**  
 RStudio · Excel avanzado · GitHub · Visual Studio Code
+
 ---
 
 ## Proyectos destacados
