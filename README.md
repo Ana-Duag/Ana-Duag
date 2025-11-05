@@ -62,6 +62,8 @@ Correo: apduenasagudo@gmail.com
 
 [Repositorios de GitHub](https://github.com/Ana-Duag?tab=repositories)
 
+LinkedIn: linkedin.com/in/ana-duenas-agudo
+
 ---
 
 *"Los datos cuentan historias; mi objetivo es analizarlos y transmitir su mensaje con claridad y precisión."*
