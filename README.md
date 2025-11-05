@@ -30,10 +30,11 @@ Excel avanzado · GitHub
 ### Proyectos
 | Proyecto | Descripción | Herramientas |
 |-----------|--------------|--------------|
-| [Análisis de películas](https://github.com/Ana-Duag/proyecto-peliculas-tableau) | Análisis y visualización de datos sobre taquilla y géneros cinematográficos. | Tableau, Python |
+| [Proyecto Tableau - Análisis de películas](https://github.com/Ana-Duag/proyecto-peliculas-tableau) | Análisis y visualización de datos sobre taquilla y géneros cinematográficos. | Tableau, Python |
 | [Proyecto IA – Power BI](https://github.com/Ana-Duag/proyecto-IA-powerbi) | Creación de un dashboard interactivo con enfoque en inteligencia artificial y análisis predictivo. | Power BI, Python |
 | [Proyecto musical – Consultas SQL](https://github.com/Ana-Duag/proyecto-musical-consultas-sql) | Análisis de una base de datos musical para la obtención de métricas clave. | SQL, Python |
 | [Proyecto EDA – visualizaciones-python](https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python) | Proyecto en fase de desarrollo | Python |
+| [Proyecto Juego Básico Python – El Ahorcado](https://github.com/Ana-Duag/proyecto-python-juego-ahorcado) | Juego básico utilizando lenguaje Python | Python |
 | [Proyecto presas –2025](https://github.com/Ana-Duag/proyecto-presas-2025) | Proyecto en fase de desarrollo | Python, SQL, Power BI|
 
 ---
