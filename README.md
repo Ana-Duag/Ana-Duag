@@ -8,20 +8,20 @@ Actualmente en desarrollo profesional como Data Analyst, Data Scientist y Data E
 
 ## Tecnologías y herramientas
 
-**Lenguajes de programación y análisis:**  
-Python · R · Java · PHP · HTML  
+**Lenguajes de programación y análisis:**
+Python · R · Java · PHP · HTML
 
-**Entornos y librerías de análisis:**  
-RStudio · Pandas · NumPy · Matplotlib · Seaborn  
+**Entornos y librerías de análisis:**
+RStudio · Visual Studio Code · Pandas · NumPy · Matplotlib · Seaborn
 
-**Bases de datos y consultas:**  
-SQL  
+**Bases de datos y consultas:**
+SQL
 
-**Visualización de datos y reporting:**  
-Tableau · Power BI  
+**Visualización de datos y reporting:**
+Tableau · Power BI
 
-**Otras herramientas:**  
-RStudio · Excel avanzado · GitHub · Visual Studio Code
+**Otras herramientas:**
+Excel avanzado · GitHub
 
 ---
 
@@ -70,7 +70,7 @@ Correo: apduenasagudo@gmail.com
 
 ### English Summary
 
-Civil Engineer with extensive economic and fiscal training and a strong analytical mindset.
+MSc Civil Engineer with extensive economic and fiscal training and a strong analytical mindset.
 Currently developing as a Data Analyst, Data Scientist, and Data Engineer, skilled in Python, R, SQL, Tableau, Power BI, and Java.
 
 Passionate about processing, analyzing, and visualizing data to support data-driven decision-making.
