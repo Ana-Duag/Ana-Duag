@@ -62,7 +62,7 @@ Correo: apduenasagudo@gmail.com
 
 [Repositorios de GitHub](https://github.com/Ana-Duag?tab=repositories)
 
-LinkedIn: linkedin.com/in/ana-duenas-agudo
+LinkedIn: (https://www.linkedin.com/in/ana-duenas-agudo)
 
 ---
 
