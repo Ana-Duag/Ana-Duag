@@ -1,8 +1,6 @@
 ## Hola, soy Ana Dueñas
 
-Ingeniera de Caminos, Canales y Puertos con extensa formación en el ámbito Económico-Fiscal, adquirida durante varios años de preparación para el cuerpo de Inspección de Hacienda del Estado.  
-
-Actualmente en desarrollo profesional como Data Analyst, Data Scientist y Data Engineer, aplicando mis conocimientos técnicos en Python, R, SQL, Tableau y Power BI para procesar, analizar y comunicar datos de manera precisa, eficiente y visualmente clara.
+Apasionada por el análisis y la transformación de datos, desarrollo mi carrera como Data Analyst & Scientist, combinando programación, análisis y visualización con dominio de Python, SQL, Power BI, Tableau, R y procesos ETL. Como Ingeniera de Caminos, Canales y Puertos, aporto una sólida capacidad analítica, rigor técnico y habilidades para la resolución de problemas, orientadas a transformar los datos en información valiosa para la toma de decisiones.
 
 ---
 
@@ -30,12 +28,11 @@ Excel avanzado · GitHub
 ### Proyectos
 | Proyecto | Descripción | Herramientas |
 |-----------|--------------|--------------|
-| [Proyecto Tableau - Análisis de películas](https://github.com/Ana-Duag/proyecto-peliculas-tableau) | Análisis y visualización de datos sobre taquilla y géneros cinematográficos. | Tableau, Python |
-| [Proyecto IA – Power BI](https://github.com/Ana-Duag/proyecto-IA-powerbi) | Creación de un dashboard interactivo con enfoque en inteligencia artificial y análisis predictivo. | Power BI, Python |
-| [Proyecto musical – Consultas SQL](https://github.com/Ana-Duag/proyecto-musical-consultas-sql) | Análisis de una base de datos musical para la obtención de métricas clave. | SQL, Python |
-| [Proyecto EDA – visualizaciones-python](https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python) | Proyecto en fase de desarrollo | Python |
-| [Proyecto Juego Básico Python – El Ahorcado](https://github.com/Ana-Duag/proyecto-python-juego-ahorcado) | Juego básico utilizando lenguaje Python | Python |
-| [Proyecto presas –2025](https://github.com/Ana-Duag/proyecto-presas-2025) | Proyecto en fase de desarrollo | Python, SQL, Power BI|
+| [Panorama Mundial de la Inteligencia Artificial 2024](https://github.com/Ana-Duag/proyecto-IA-powerbi) | Análisis exploratorio de datos (EDA) y procesamiento en Python; desarrollo de dashboards en Power BI sobre el impacto global de la inteligencia artificial. | Python, Power BI |
+| [Industria Cinematográfica y Generación Millennial](https://github.com/Ana-Duag/proyecto-peliculas-tableau) | Análisis exploratorio de datos (EDA) y tratamiento de datos en Python; creación de dashboards en Tableau para visualizar patrones de consumo cinematográfico. | Python, Tableau |
+| [Music Stream: Popularidad de Canciones en la Era Digital](https://github.com/Ana-Duag/proyecto-musical-consultas-sql) | Extracción de datos desde APIs con Python, integración Python–SQL y consultas en SQL para analizar tendencias musicales. | Python, SQL |
+| [Análisis de Rotación de Empleados: Optimización del Talento](https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python) | Pipeline ETL y análisis exploratorio en Python; creación de base de datos en SQL y visualizaciones con Seaborn y Matplotlib para identificar factores de rotación laboral. | Python, SQL, Seaborn, Matplotlib |
+| [Proyecto de Juegos Clásicos en Python: El Ahorcado](https://github.com/Ana-Duag/proyecto-python-juego-ahorcado) | Desarrollo de un juego interactivo en Python aplicando lógica condicional, estructuras de datos y control de flujo. | Python |
 
 ---
 
@@ -63,7 +60,7 @@ Correo: apduenasagudo@gmail.com
 
 [Repositorios de GitHub](https://github.com/Ana-Duag?tab=repositories)
 
-LinkedIn: (https://www.linkedin.com/in/ana-duenas-agudo)
+LinkedIn: (www.linkedin.com/in/ana-dueñas)
 
 ---
 
@@ -73,8 +70,6 @@ LinkedIn: (https://www.linkedin.com/in/ana-duenas-agudo)
 
 ### English Summary
 
-MSc Civil Engineer with extensive economic and fiscal training and a strong analytical mindset.
-Currently developing as a Data Analyst, Data Scientist, and Data Engineer, skilled in Python, R, SQL, Tableau, Power BI, and Java.
+Passionate about data analysis and transformation, I am developing my career as a Data Analyst & Scientist, combining programming, analytics, and visualization with strong proficiency in Python, SQL, Power BI, Tableau, R, and ETL processes.
 
-Passionate about processing, analyzing, and visualizing data to support data-driven decision-making.
-Based in Madrid, Spain.
+As a Civil Engineer, I bring strong analytical skills, technical rigor, and problem-solving abilities, focused on transforming data into valuable insights to support decision-making.
