@@ -36,12 +36,13 @@ Excel avanzado · GitHub
 
 ---
 
-### Pruebas técnicas
-| Proyecto | Descripción | Herramientas |
+### Pruebas Técnicas
+
+| Prueba Técnica | Descripción | Herramientas |
 |-----------|--------------|--------------|
-| [Prueba técnica Python – General](https://github.com/Ana-Duag/prueba-tecnica-python-general) | Resolución de una prueba técnica centrada en manipulación y análisis de datos. | Python |
-| [Prueba técnica Python – Pandas](https://github.com/Ana-Duag/prueba-tecnica-python-pandas) | Ejercicios prácticos de análisis y transformación de datos. | Python, Pandas |
-| [Prueba técnica SQL – Consultas](https://github.com/Ana-Duag/prueba-tecnica-sql-consultas) | Desarrollo de consultas SQL sobre diferentes conjuntos de datos para resolver ejercicios técnicos. | SQL |
+| [Análisis de la Base de Datos Sakila](https://github.com/Ana-Duag/prueba-tecnica-sql-consultas) | Consultas SQL sobre la base de datos Sakila para el análisis de alquileres, clientes y películas. | SQL |
+| [Análisis del Programa de Lealtad de una Aerolínea](https://github.com/Ana-Duag/prueba-tecnica-python-pandas) | Exploración y análisis del comportamiento de clientes en un programa de lealtad, aplicando estadística descriptiva e inferencial. | Python, Pandas, Matplotlib, Seaborn |
+| [Simulación de Tienda Online](https://github.com/Ana-Duag/prueba-tecnica-python-general) | Simulación de una tienda online en Python para la gestión de inventarios y ventas. | Python |
 
 ---
 
