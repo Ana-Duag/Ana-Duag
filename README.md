@@ -42,7 +42,7 @@ Excel avanzado · GitHub
 |-----------|--------------|--------------|
 | [Análisis de la Base de Datos Sakila](https://github.com/Ana-Duag/prueba-tecnica-sql-consultas) | Consultas SQL sobre la base de datos Sakila para el análisis de alquileres, clientes y películas. | SQL |
 | [Análisis del Programa de Lealtad de una Aerolínea](https://github.com/Ana-Duag/prueba-tecnica-python-pandas) | Exploración y análisis del comportamiento de clientes en un programa de lealtad de una aerolínea. | Python, Pandas, Matplotlib, Seaborn. Estadística descriptiva.Estadística inferencial |
-| [Simulación de Tienda Online](https://github.com/Ana-Duag/prueba-tecnica-python-general) | Simulación de una tienda online en Python para la gestión de inventarios y ventas. | Python |
+| [Simulación de Tienda Online](https://github.com/Ana-Duag/prueba-tecnica-python-general) | Simulación de una tienda online en Python para la gestión de inventarios, clientes, compras y ventas. | Python |
 
 ---
 
