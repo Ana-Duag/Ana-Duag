@@ -1,22 +1,5 @@
-<table width="100%" bgcolor="#0A3C5F">
-<tr>
-<td align="center" style="padding: 60px 20px;">
-
-<h1 style="color:white;">Ana Dueñas</h1>
-
-<h2 style="color:white; font-weight:normal;">
-Data Analyst · Data Scientist · Data Engineer
-</h2>
-
-<h3>
-<a href="#perfil" style="color:#A6D4FF; text-decoration:none;">Perfil</a> &nbsp;·&nbsp;
-<a href="#proyectos" style="color:#A6D4FF; text-decoration:none;">Proyectos</a> &nbsp;·&nbsp;
-<a href="#contacto" style="color:#A6D4FF; text-decoration:none;">Contacto</a>
-</h3>
-
-</td>
-</tr>
-</table>
+<!-- Banner a pantalla completa -->
+<img src="https://raw.githubusercontent.com/Ana-Duag/Ana-Duag/main/51f9f641-af05-47c7-845e-76c9e9024285.png" width="100%">
 
 ---
 
@@ -89,7 +72,7 @@ Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-general
 ## Visualizaciones en Tableau
 
 Mis dashboards están disponibles en Tableau Public.  
-(Puedo añadir el enlace directo si lo deseas.)
+(Puedo incluir aquí el enlace directo si lo deseas.)
 
 ---
 
@@ -110,6 +93,5 @@ GitHub: https://github.com/Ana-Duag
 
 Passionate about data analysis and transformation, I develop my career as a Data Analyst & Scientist, combining programming, analytics, and visualization with solid proficiency in Python, SQL, Power BI, Tableau, R and ETL processes.  
 As a Civil Engineer, I bring analytical skills, technical rigor and problem-solving abilities to transform data into valuable insights.
-
 
 
