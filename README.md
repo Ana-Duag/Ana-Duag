@@ -1,18 +1,18 @@
-<table width="100%" style="background-color:#0A3C5F; padding: 60px 0;">
+<table width="100%" bgcolor="#0A3C5F">
 <tr>
-<td align="center">
+<td align="center" style="padding: 60px 20px;">
 
-<h1 style="font-size:50px; color:white; margin-bottom:10px;">Ana Dueñas</h1>
+<h1 style="color:white;">Ana Dueñas</h1>
 
-<h3 style="font-size:22px; font-weight:normal; color:white; margin-top:0;">
+<h2 style="color:white; font-weight:normal;">
 Data Analyst · Data Scientist · Data Engineer
-</h3>
+</h2>
 
-<p style="font-size:20px; margin-top:40px;">
+<h3>
 <a href="#perfil" style="color:#A6D4FF; text-decoration:none;">Perfil</a> &nbsp;·&nbsp;
 <a href="#proyectos" style="color:#A6D4FF; text-decoration:none;">Proyectos</a> &nbsp;·&nbsp;
 <a href="#contacto" style="color:#A6D4FF; text-decoration:none;">Contacto</a>
-</p>
+</h3>
 
 </td>
 </tr>
@@ -110,5 +110,6 @@ GitHub: https://github.com/Ana-Duag
 
 Passionate about data analysis and transformation, I develop my career as a Data Analyst & Scientist, combining programming, analytics, and visualization with solid proficiency in Python, SQL, Power BI, Tableau, R and ETL processes.  
 As a Civil Engineer, I bring analytical skills, technical rigor and problem-solving abilities to transform data into valuable insights.
+
 
 
