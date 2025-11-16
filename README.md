@@ -1,76 +1,101 @@
-## Hola, soy Ana Dueñas
+<h1 align="center">Ana Dueñas</h1>
+<h3 align="center">Data Analyst · Data Scientist · Data Engineer</h3>
 
-Apasionada por el análisis y la transformación de datos, desarrollo mi carrera como Data Analyst & Scientist, combinando programación, análisis y visualización con dominio de Python, SQL, Power BI, Tableau, R y procesos ETL. Como Ingeniera de Caminos, Canales y Puertos, aporto una sólida capacidad analítica, rigor técnico y habilidades para la resolución de problemas, orientadas a transformar los datos en información valiosa para la toma de decisiones.
-
----
-
-## Tecnologías y herramientas
-
-**Lenguajes de programación y análisis:**
-Python · R · Java · PHP · HTML
-
-**Entornos y librerías de análisis:**
-RStudio · Visual Studio Code · Pandas · NumPy · Matplotlib · Seaborn
-
-**Bases de datos y consultas:**
-SQL
-
-**Visualización de datos y reporting:**
-Tableau · Power BI
-
-**Otras herramientas:**
-Excel avanzado · GitHub
+<p align="center">
+  <a href="#perfil">Perfil</a> ·
+  <a href="#proyectos">Proyectos</a> ·
+  <a href="#contacto">Contacto</a>
+</p>
 
 ---
 
-## Proyectos destacados
+## Perfil
 
-### Proyectos
-| Proyecto | Descripción | Herramientas |
-|-----------|--------------|--------------|
-| [Panorama Mundial de la Inteligencia Artificial 2024](https://github.com/Ana-Duag/proyecto-IA-powerbi) | Análisis exploratorio de datos (EDA) y procesamiento en Python; desarrollo de dashboards en Power BI sobre el impacto global de la inteligencia artificial. | Python, Power BI |
-| [Industria Cinematográfica y Generación Millennial](https://github.com/Ana-Duag/proyecto-peliculas-tableau) | Análisis exploratorio de datos (EDA) y tratamiento de datos en Python; creación de dashboards en Tableau para visualizar patrones de consumo cinematográfico. | Python, Tableau |
-| [Music Stream: Popularidad de Canciones en la Era Digital](https://github.com/Ana-Duag/proyecto-musical-consultas-sql) | Extracción de datos desde APIs con Python, integración Python–SQL y consultas en SQL para analizar tendencias musicales. | Python, SQL |
-| [Análisis de Rotación de Empleados: Optimización del Talento](https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python) | Pipeline ETL y análisis exploratorio en Python; creación de base de datos en SQL y visualizaciones con Seaborn y Matplotlib para identificar factores de rotación laboral. | Python, SQL, Seaborn, Matplotlib |
-| [Proyecto de Juegos Clásicos en Python: El Ahorcado](https://github.com/Ana-Duag/proyecto-python-juego-ahorcado) | Desarrollo de un juego interactivo en Python aplicando lógica condicional, estructuras de datos y control de flujo. | Python |
+Apasionada por el análisis y la transformación de datos, desarrollo mi carrera como Data Analyst & Scientist, combinando programación, análisis y visualización con dominio de Python, SQL, Power BI, Tableau, R y procesos ETL.  
+Como Ingeniera de Caminos, Canales y Puertos, aporto una sólida capacidad analítica, rigor técnico y habilidades para la resolución de problemas, orientadas a transformar los datos en información valiosa para la toma de decisiones.
+
+### Tecnologías y herramientas
+
+Python · R · Java · PHP · HTML  
+Pandas · NumPy · Matplotlib · Seaborn  
+SQL  
+Tableau · Power BI  
+Excel avanzado · GitHub · RStudio · Visual Studio Code  
+ETL · Análisis exploratorio · Visualización de datos
 
 ---
 
-### Pruebas Técnicas
+## Proyectos
 
-| Prueba Técnica | Descripción | Herramientas |
-|-----------|--------------|--------------|
-| [Análisis de la Base de Datos Sakila](https://github.com/Ana-Duag/prueba-tecnica-sql-consultas) | Consultas SQL sobre la base de datos Sakila para el análisis de alquileres, clientes y películas. | SQL |
-| [Análisis del Programa de Lealtad de una Aerolínea](https://github.com/Ana-Duag/prueba-tecnica-python-pandas) | Exploración y análisis del comportamiento de clientes en un programa de lealtad de una aerolínea. | Python, Pandas, Matplotlib, Seaborn. Estadística descriptiva.Estadística inferencial |
-| [Simulación de Tienda Online](https://github.com/Ana-Duag/prueba-tecnica-python-general) | Simulación de una tienda online en Python para la gestión de inventarios, clientes, compras y ventas. | Python |
+### Panorama Mundial de la Inteligencia Artificial 2024  
+Análisis exploratorio de datos y procesamiento en Python. Desarrollo de dashboards en Power BI sobre el impacto global de la inteligencia artificial.  
+Repositorio: https://github.com/Ana-Duag/proyecto-IA-powerbi
+
+---
+
+### Industria Cinematográfica y Generación Millennial  
+Análisis exploratorio y tratamiento de datos en Python. Creación de dashboards en Tableau para visualizar patrones de consumo cinematográfico.  
+Repositorio: https://github.com/Ana-Duag/proyecto-peliculas-tableau
+
+---
+
+### Music Stream: Popularidad de Canciones en la Era Digital  
+Extracción de datos desde APIs con Python y consultas SQL para analizar tendencias musicales en la era digital.  
+Repositorio: https://github.com/Ana-Duag/proyecto-musical-consultas-sql
+
+---
+
+### Análisis de Rotación de Empleados  
+Pipeline ETL, análisis exploratorio en Python y creación de una base de datos SQL para estudiar factores que influyen en la rotación laboral.  
+Repositorio: https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python
+
+---
+
+### Proyecto Python: Juego del Ahorcado  
+Desarrollo de un juego interactivo aplicando lógica condicional y estructuras de datos.  
+Repositorio: https://github.com/Ana-Duag/proyecto-python-juego-ahorcado
+
+---
+
+### Análisis de la Base de Datos Sakila  
+Consultas SQL para explorar alquileres, clientes y películas de la base de datos Sakila.  
+Repositorio: https://github.com/Ana-Duag/prueba-tecnica-sql-consultas
+
+---
+
+### Análisis del Programa de Lealtad de una Aerolínea  
+Exploración del comportamiento de clientes mediante estadísticas descriptivas e inferenciales con Python.  
+Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-pandas
+
+---
+
+### Simulación de Tienda Online  
+Simulación en Python para la gestión de inventarios, clientes, compras y ventas.  
+Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-general
 
 ---
 
 ## Visualizaciones en Tableau
 
-Algunas de mis visualizaciones están disponibles públicamente en Tableau Public:  
-
+Mis dashboards públicos están disponibles en Tableau Public.  
+(Puedo incluir el enlace directo cuando me lo indiques.)
 
 ---
 
-## Enlaces y contacto
+## Contacto
 
 Madrid, España  
-
-Correo: apduenasagudo@gmail.com
-
-[Repositorios de GitHub](https://github.com/Ana-Duag?tab=repositories)
-
-LinkedIn: (www.linkedin.com/in/ana-dueñas)
+Correo: apduenasagudo@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ana-dueñas  
+GitHub: https://github.com/Ana-Duag
 
 ---
 
-*"Los datos cuentan historias; mi objetivo es analizarlos y transmitir su mensaje con claridad y precisión."*
+"Los datos cuentan historias; mi objetivo es analizarlos y transmitir su mensaje con claridad y precisión."
 
 ---
 
 ### English Summary
 
-Passionate about data analysis and transformation, I am developing my career as a Data Analyst & Scientist, combining programming, analytics, and visualization with strong proficiency in Python, SQL, Power BI, Tableau, R, and ETL processes.
-
-As a Civil Engineer, I bring strong analytical skills, technical rigor, and problem-solving abilities, focused on transforming data into valuable insights to support decision-making.
+Passionate about data analysis and transformation, I develop my career as a Data Analyst & Scientist, combining programming, analytics, and data visualization with solid proficiency in Python, SQL, Power BI, Tableau, R and ETL processes.  
+As a Civil Engineer, I bring analytical skills, technical rigor and problem-solving abilities to transform data into valuable insights.
