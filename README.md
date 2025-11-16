@@ -1,20 +1,22 @@
-<div align="center" style="background-color:#0A3C5F; padding: 60px 20px; border-radius: 8px;">
+<table width="100%" style="background-color:#0A3C5F; padding: 60px 0;">
+<tr>
+<td align="center">
 
-<h1 style="font-size: 50px; margin-bottom: 10px; color:white;">
-Ana Dueñas
-</h1>
+<h1 style="font-size:50px; color:white; margin-bottom:10px;">Ana Dueñas</h1>
 
-<h3 style="font-size: 22px; font-weight: normal; color:white; margin-top: 0;">
+<h3 style="font-size:22px; font-weight:normal; color:white; margin-top:0;">
 Data Analyst · Data Scientist · Data Engineer
 </h3>
 
-<p style="font-size: 20px; margin-top: 40px;">
+<p style="font-size:20px; margin-top:40px;">
 <a href="#perfil" style="color:#A6D4FF; text-decoration:none;">Perfil</a> &nbsp;·&nbsp;
 <a href="#proyectos" style="color:#A6D4FF; text-decoration:none;">Proyectos</a> &nbsp;·&nbsp;
 <a href="#contacto" style="color:#A6D4FF; text-decoration:none;">Contacto</a>
 </p>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,15 +88,15 @@ Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-general
 
 ## Visualizaciones en Tableau
 
-Mis dashboards públicos están disponibles en Tableau Public.  
-(Puedo añadir aquí tu enlace directo si lo deseas.)
+Mis dashboards están disponibles en Tableau Public.  
+(Puedo añadir el enlace directo si lo deseas.)
 
 ---
 
 ## Contacto
 
 Madrid, España  
-Correo: apduenasagudo@gmail.com  
+Correo: **apduenasagudo@gmail.com**  
 LinkedIn: https://www.linkedin.com/in/ana-dueñas  
 GitHub: https://github.com/Ana-Duag
 
@@ -106,6 +108,7 @@ GitHub: https://github.com/Ana-Duag
 
 ### English Summary
 
-Passionate about data analysis and transformation, I develop my career as a Data Analyst & Scientist, combining programming, analytics, and data visualization with solid proficiency in Python, SQL, Power BI, Tableau, R and ETL processes.  
+Passionate about data analysis and transformation, I develop my career as a Data Analyst & Scientist, combining programming, analytics, and visualization with solid proficiency in Python, SQL, Power BI, Tableau, R and ETL processes.  
 As a Civil Engineer, I bring analytical skills, technical rigor and problem-solving abilities to transform data into valuable insights.
+
 
