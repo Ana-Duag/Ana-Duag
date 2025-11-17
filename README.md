@@ -1,6 +1,3 @@
-<!-- Banner a pantalla completa -->
-<img src="https://raw.githubusercontent.com/Ana-Duag/Ana-Duag/main/51f9f641-af05-47c7-845e-76c9e9024285.png" width="100%">
-
 <!-- Navegación estilo web -->
 <p align="center">
   <a href="#perfil">Perfil</a> &nbsp;•&nbsp;
@@ -12,7 +9,7 @@
 
 ## Perfil
 
-Apasionada por el análisis y la transformación de datos, desarrollo mi carrera como Data Analyst & Scientist, combinando programación, análisis y visualización con dominio de Python, SQL, Power BI, Tableau, R y procesos ETL.  
+Apasionada por el análisis y la transformación de datos, desarrollo mi carrera como Data Analyst & Scientist, combinando programación, análisis y visualización con dominio de Python, SQL, Power BI, Tableau, R, procesos ETL y Sistemas de Información Geográfica (GIS).
 
 Como Ingeniera de Caminos, Canales y Puertos, aporto una sólida capacidad analítica, rigor técnico y habilidades para la resolución de problemas, orientadas a transformar los datos en información valiosa para la toma de decisiones.
 
@@ -22,74 +19,54 @@ Python • R • SQL • Java • PHP • HTML
 Pandas • NumPy • Matplotlib • Seaborn  
 Power BI • Tableau  
 Excel avanzado • GitHub  
-ETL • Análisis exploratorio • Visualización
+ETL • GIS • Análisis exploratorio • Visualización
 
 ---
 
 ## Proyectos
 
-### Panorama Mundial de la Inteligencia Artificial 2024  
-**Python · Power BI**  
-Análisis exploratorio de datos y dashboards sobre el impacto global de la IA.  
-Repositorio: https://github.com/Ana-Duag/proyecto-IA-powerbi  
+### Proyectos de Análisis de Datos
 
----
+- **Panorama Mundial de la Inteligencia Artificial 2024.**  
+  Análisis exploratorio de datos (EDA) y tratamiento de datos en Python; creación de dashboards en Power BI sobre el impacto global de la IA.  
+  Repositorio: https://github.com/Ana-Duag/proyecto-IA-powerbi
 
-### Industria Cinematográfica y Generación Millennial  
-**Python · Tableau**  
-Tratamiento de datos y dashboards para entender patrones de consumo cinematográfico.  
-Repositorio: https://github.com/Ana-Duag/proyecto-peliculas-tableau  
+- **Patrones de consumo cinematográfico en la Generación Millennial.**  
+  EDA y tratamiento de datos en Python; creación de dashboards en Tableau para visualizar patrones de consumo cinematográfico.  
+  Repositorio: https://github.com/Ana-Duag/proyecto-peliculas-tableau
 
----
+- **Popularidad de Canciones en la Era Digital.**  
+  Extracción de datos desde APIs con Python, integración Python–SQL, modelado y consultas en SQL para analizar tendencias musicales.  
+  Repositorio: https://github.com/Ana-Duag/proyecto-musical-consultas-sql
 
-### Music Stream: Popularidad de Canciones  
-**Python · SQL**  
-Extracción desde APIs y análisis SQL para estudiar tendencias musicales.  
-Repositorio: https://github.com/Ana-Duag/proyecto-musical-consultas-sql  
+- **Base de Datos Sakila (SQL).**  
+  Consultas SQL sobre la base de datos Sakila para el análisis de alquileres, clientes y películas.  
+  Repositorio: https://github.com/Ana-Duag/prueba-tecnica-sql-consultas
 
----
+- **Análisis de Rotación de Empleados.**  
+  Pipeline ETL y EDA en Python; creación de base de datos en SQL y visualizaciones con Seaborn y Matplotlib para detectar factores de rotación laboral.  
+  Repositorio: https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python
 
-### Análisis de Rotación de Empleados  
-**Python · SQL · Visualización**  
-ETL, análisis exploratorio y creación de base de datos para investigar rotación laboral.  
-Repositorio: https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python  
+- **Programa de Lealtad de Aerolínea.**  
+  Exploración y análisis del comportamiento de clientes. Python, Pandas, Matplotlib, Seaborn. Estadística descriptiva e inferencial.  
+  Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-pandas
 
----
+- **Juego Clásico en Python – El Ahorcado.**  
+  Desarrollo de un juego interactivo en Python aplicando lógica condicional, estructuras de datos y control de flujo.  
+  Repositorio: https://github.com/Ana-Duag/proyecto-python-juego-ahorcado
 
-### Juego del Ahorcado (Python)  
-**Python**  
-Lógica condicional y estructuras de datos aplicadas a un juego interactivo.  
-Repositorio: https://github.com/Ana-Duag/proyecto-python-juego-ahorcado  
-
----
-
-### Análisis de Base de Datos Sakila  
-**SQL**  
-Consultas avanzadas para estudiar alquileres, clientes y películas.  
-Repositorio: https://github.com/Ana-Duag/prueba-tecnica-sql-consultas  
-
----
-
-### Programa de Lealtad de Aerolínea  
-**Python · Estadística**  
-Análisis descriptivo e inferencial de comportamiento de clientes.  
-Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-pandas  
-
----
-
-### Simulación de Tienda Online  
-**Python**  
-Gestión de inventarios, clientes y ventas mediante simulación.  
-Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-general  
+- **Tienda Online.**  
+  Simulación de e-commerce en Python para la gestión de inventarios y ventas.  
+  Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-general
 
 ---
 
 ## Contacto
 
 **Madrid, España**  
-📧 apduenasagudo@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ana-dueñas  
-💻 GitHub: https://github.com/Ana-Duag  
+apduenasagudo@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ana-dueñas  
+
 
 ---
 
