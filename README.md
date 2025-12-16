@@ -9,17 +9,35 @@
 
 ## Perfil
 
-Apasionada por el análisis y la transformación de datos, desarrollo mi carrera como Data Analyst & Scientist, combinando programación, análisis y visualización con dominio de Python, SQL, Power BI, Tableau, R, procesos ETL y Sistemas de Información Geográfica (GIS).
+Data Analyst & Data Scientist e Ingeniera de Caminos, Canales y Puertos. Aporto pensamiento estructurado, rigor técnico y capacidad para resolver problemas complejos. Experiencia en proyectos con Python, SQL, Power BI y Tableau, desarrollando procesos end-to-end, desde el tratamiento y preparación del dato (ETL) hasta el análisis estadístico, la visualización y creación de dashboards orientados a la toma de decisiones. Mi background económico-fiscal me permite interpretar la información desde una perspectiva financiera, identificar patrones relevantes y aportar criterio en el análisis de KPIs. Soy una profesional disciplinada, con rigor analítico y orientada a generar valor en entornos de Data Analytics & Data Science y Business Intelligence.
 
-Como Ingeniera de Caminos, Canales y Puertos, aporto una sólida capacidad analítica, rigor técnico y habilidades para la resolución de problemas, orientadas a transformar los datos en información valiosa para la toma de decisiones.
+Formación avanzada en análisis económico, contabilidad y normativa tributaria tras cinco años de preparación al Cuerpo de Inspectores de Hacienda del Estado. Este background aporta rigurosidad analítica, criterio financiero sólido y capacidad para evaluar KPIs y detectar riesgos, contribuyendo directamente a proyectos de Data y BI donde el dato económico es clave en la toma de decisiones.
 
-### Tecnologías
+### TECH STACK
 
-Python • R • SQL • Java • PHP • HTML  
-Pandas • NumPy • Matplotlib • Seaborn  
-Power BI • Tableau  
-Excel avanzado • GitHub  
-ETL • GIS • Análisis exploratorio • Visualización
+#### Análisis de Datos
+- Python ( Pandas, NumPy, Matplotlib, Seaborn, APIs, Web Scraping)
+- SQL (MySQL, modelado relacional, normalización, consultas complejas)
+- R (estadística descriptiva e inferencial)
+- Excel avanzado
+
+#### BI & Visualización
+- Power BI (DAX, Power Query, modelado de datos, dashboards)
+- Tableau (visual analytics, storytelling)
+- Looker Studio
+
+#### Data Engineering Básico
+- ETL
+- Integración Python-SQL
+- Automatización de procesos y manejo de grandes datasets
+- Jupyter Notebook
+- VS Code
+
+#### Metodologías y Entorno Profesional
+- Scrum/ Agile
+- Git/ GitHub
+- Data Storytelling
+- IA generativa (ChatGPT, Claude, Gemini, Copilot)
 
 ---
 
@@ -28,27 +46,27 @@ ETL • GIS • Análisis exploratorio • Visualización
 ### Proyectos de Análisis de Datos
 
 - **Panorama Mundial de la Inteligencia Artificial 2024.**  
-  Análisis exploratorio de datos (EDA) y tratamiento de datos en Python; creación de dashboards en Power BI sobre el impacto global de la IA.  
+  EDA y tratamiento de datos en Python; diseño de dashboards en Power BI para analizar tendencias globales y facilitar la interpretación de indicadores clave. 
   Repositorio: https://github.com/Ana-Duag/proyecto-IA-powerbi
 
 - **Patrones de consumo cinematográfico en la Generación Millennial.**  
-  EDA y tratamiento de datos en Python; creación de dashboards en Tableau para visualizar patrones de consumo cinematográfico.  
+  EDA y tratamiento de datos en Python; diseño de dashboards en Tableau para identificar preferencias y comportamientos del público.  
   Repositorio: https://github.com/Ana-Duag/proyecto-peliculas-tableau
 
 - **Popularidad de Canciones en la Era Digital.**  
-  Extracción de datos desde APIs con Python, integración Python–SQL, modelado y consultas en SQL para analizar tendencias musicales.  
+  Extracción de datos desde APIs con Python, integración Python–SQL, modelado y consultas avanzadas en SQL. 
   Repositorio: https://github.com/Ana-Duag/proyecto-musical-consultas-sql
 
 - **Base de Datos Sakila (SQL).**  
-  Consultas SQL sobre la base de datos Sakila para el análisis de alquileres, clientes y películas.  
+  Diseño y ejecución de consultas avanzadas orientadas al análisis de alquileres, clientes y películas. 
   Repositorio: https://github.com/Ana-Duag/prueba-tecnica-sql-consultas
 
 - **Análisis de Rotación de Empleados.**  
-  Pipeline ETL y EDA en Python; creación de base de datos en SQL y visualizaciones con Seaborn y Matplotlib para detectar factores de rotación laboral.  
+  Pipeline ETL y EDA en Python; creación de base de datos en SQL y visualizaciones con Seaborn y Matplotlib para identificar factores de rotación. 
   Repositorio: https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python
 
 - **Programa de Lealtad de Aerolínea.**  
-  Exploración y análisis del comportamiento de clientes. Python, Pandas, Matplotlib, Seaborn. Estadística descriptiva e inferencial.  
+  Exploración y análisis del comportamiento de clientes usando Python, Pandas, Matplotlib, Seaborn y estadística descriptiva e inferencial para identificar patrones de fidelización. 
   Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-pandas
 
 - **Juego Clásico en Python – El Ahorcado.**  
@@ -56,7 +74,7 @@ ETL • GIS • Análisis exploratorio • Visualización
   Repositorio: https://github.com/Ana-Duag/proyecto-python-juego-ahorcado
 
 - **Tienda Online.**  
-  Simulación de e-commerce en Python para la gestión de inventarios y ventas.  
+  Simulación de e-commerce en Python para la gestión de inventarios, compras y ventas. 
   Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-general
 
 ---
