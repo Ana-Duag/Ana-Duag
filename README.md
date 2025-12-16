@@ -47,34 +47,42 @@ Mi background económico-fiscal me permite interpretar la información desde una
 
 - **Panorama Mundial de la Inteligencia Artificial 2024.**  
   EDA y tratamiento de datos en Python; diseño de dashboards en Power BI para analizar tendencias globales y facilitar la interpretación de indicadores clave. 
+
   Repositorio: https://github.com/Ana-Duag/proyecto-IA-powerbi
 
 - **Patrones de consumo cinematográfico en la Generación Millennial.**  
   EDA y tratamiento de datos en Python; diseño de dashboards en Tableau para identificar preferencias y comportamientos del público.  
+
   Repositorio: https://github.com/Ana-Duag/proyecto-peliculas-tableau
 
 - **Popularidad de Canciones en la Era Digital.**  
   Extracción de datos desde APIs con Python, integración Python–SQL, modelado y consultas avanzadas en SQL. 
+
   Repositorio: https://github.com/Ana-Duag/proyecto-musical-consultas-sql
 
 - **Base de Datos Sakila (SQL).**  
   Diseño y ejecución de consultas avanzadas orientadas al análisis de alquileres, clientes y películas. 
+
   Repositorio: https://github.com/Ana-Duag/prueba-tecnica-sql-consultas
 
 - **Análisis de Rotación de Empleados.**  
   Pipeline ETL y EDA en Python; creación de base de datos en SQL y visualizaciones con Seaborn y Matplotlib para identificar factores de rotación. 
+
   Repositorio: https://github.com/Ana-Duag/proyecto-EDA-visualizaciones-python
 
 - **Programa de Lealtad de Aerolínea.**  
   Exploración y análisis del comportamiento de clientes usando Python, Pandas, Matplotlib, Seaborn y estadística descriptiva e inferencial para identificar patrones de fidelización. 
+
   Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-pandas
 
 - **Juego Clásico en Python – El Ahorcado.**  
   Desarrollo de un juego interactivo en Python aplicando lógica condicional, estructuras de datos y control de flujo.  
+
   Repositorio: https://github.com/Ana-Duag/proyecto-python-juego-ahorcado
 
 - **Tienda Online.**  
   Simulación de e-commerce en Python para la gestión de inventarios, compras y ventas. 
+  
   Repositorio: https://github.com/Ana-Duag/prueba-tecnica-python-general
 
 ---
