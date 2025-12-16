@@ -9,9 +9,9 @@
 
 ## Perfil
 
-Data Analyst & Data Scientist e Ingeniera de Caminos, Canales y Puertos. Aporto pensamiento estructurado, rigor técnico y capacidad para resolver problemas complejos. Experiencia en proyectos con Python, SQL, Power BI y Tableau, desarrollando procesos end-to-end, desde el tratamiento y preparación del dato (ETL) hasta el análisis estadístico, la visualización y creación de dashboards orientados a la toma de decisiones. Mi background económico-fiscal me permite interpretar la información desde una perspectiva financiera, identificar patrones relevantes y aportar criterio en el análisis de KPIs. Soy una profesional disciplinada, con rigor analítico y orientada a generar valor en entornos de Data Analytics & Data Science y Business Intelligence.
+Data Analyst & Scientist e Ingeniera de Caminos, Canales y Puertos. Aporto pensamiento estructurado, rigor técnico y capacidad para resolver problemas complejos. Experiencia en proyectos con Python, SQL, Power BI y Tableau, desarrollando procesos end-to-end, desde el tratamiento y preparación del dato (ETL) hasta el análisis estadístico, la visualización y creación de dashboards orientados a la toma de decisiones.
 
-Formación avanzada en análisis económico, contabilidad y normativa tributaria tras cinco años de preparación al Cuerpo de Inspectores de Hacienda del Estado. Este background aporta rigurosidad analítica, criterio financiero sólido y capacidad para evaluar KPIs y detectar riesgos, contribuyendo directamente a proyectos de Data y BI donde el dato económico es clave en la toma de decisiones.
+Mi background económico-fiscal me permite interpretar la información desde una perspectiva financiera, identificar patrones relevantes y aportar criterio en el análisis de KPIs. Soy una profesional disciplinada, con rigor analítico y orientada a generar valor en entornos de Data Analytics & Data Science y Business Intelligence.
 
 ### TECH STACK
 
